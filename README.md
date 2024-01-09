@@ -2,7 +2,7 @@
 
 Code for the final projects of the course in Digital Fabrication.
 
-Board used: ML042
+Board used: ML042 https://github.com/marclura/ML042-Figma-Lib
 
 Upload it via the Arduino IDE.
 
