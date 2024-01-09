@@ -1,15 +1,30 @@
-# 2023-Digitally-Designed-Objects-for-Fast-Prototyping
+# Digitally Designed Objects for Fast Prototyping
 
-Code for the final projects of the course in Digital Fabrication.
+SUPSI MAInD
+Course 4th October - 18th December 2023
+Exercice 04 - Final project
 
-Board used: ML042 https://github.com/marclura/ML042-Figma-Lib
+# Project Brief
 
-Upload it via the Arduino IDE.
+Re-fabricate an iconic product by upgrading its function to a more contemporary use.
 
-Install the ESP32-BLE-Keyboard library https://github.com/T-vK/ESP32-BLE-Keyboard
+# Topics
 
-Install the ML042_Figma_Lib library https://github.com/marclura/ML042_Figma_Lib
+- Concept generation
+- UX definition and interface mapping
+- Cardboard object prototyping
+- 3D parametric modeling in Fusion 360
+- Digital fabrication (lasercutting and 3D printing)
+- Project documentation and presentation
 
-Choose the board type "ESP32 Wrover Module"
+# Software requirements
 
-Upload the code
+- [Arduino IDE](https://www.arduino.cc/en/software)
+- [ML042_Figma_Lib library](https://github.com/marclura/ML042_Figma_Lib)
+- [ESP32-BLE-Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard)
+
+and any extra library indicated in the Arduino sketch itself
+
+# Hardware requirements
+
+- [ML042 board](https://github.com/marclura/ML042_Figma_Lib)
