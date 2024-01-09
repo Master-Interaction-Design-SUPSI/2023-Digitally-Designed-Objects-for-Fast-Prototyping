@@ -1,7 +1,9 @@
 # Digitally Designed Objects for Fast Prototyping
 
 SUPSI MAInD
+
 Course 4th October - 18th December 2023
+
 Exercice 04 - Final project
 
 # Project Brief
